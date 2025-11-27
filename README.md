@@ -50,7 +50,7 @@ DIGIPIN simplifies address management and enhances service delivery accuracy, pr
 - npm (v6 or higher)
 **Getting Started**
 1. **Clone the Repository**
- `git clone https://github.com/INDIAPOST-gov/digipin.git`
+ `git clone [https://github.com/INDIAPOST-gov/digipin](https://github.com/shivammishra044/Digital-Address-DPI-Innovation-Hackathon-India-Post-Digital-Governance-Summit-Shaastra).git`
 `cd digipin`
 2. - **Install Dependencies**
  `npm install`
