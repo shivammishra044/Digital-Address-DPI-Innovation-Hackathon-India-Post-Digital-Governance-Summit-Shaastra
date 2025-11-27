@@ -52,9 +52,9 @@ DIGIPIN simplifies address management and enhances service delivery accuracy, pr
 1. **Clone the Repository**
  `git clone https://github.com/INDIAPOST-gov/digipin.git`
 `cd digipin`
-3. - **Install Dependencies**
+2. - **Install Dependencies**
  `npm install`
-4. - **Environment Setup**
+3. - **Environment Setup**
 Create a `.env` file in the project root with the following variables:
 
 `PORT=5000
