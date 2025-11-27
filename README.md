@@ -15,7 +15,9 @@ This open-source Node.js project exposes a public API to generate and decode DIG
 - **License:**  Apache 2.0
 - **Node.js:** v14+
 - **Express:** v4.x
-    
+  
+---
+  
 # 🏛️ About DIGIPIN
 The Department of Posts has undertaken an initiative to establish a Digital Public Infrastructure (DPI) for a standardized, geo-coded addressing system in India. DIGIPIN represents the foundation layer of this infrastructure.
 
@@ -30,6 +32,8 @@ After extensive public consultation and expert review, the DIGIPIN Grid has been
 - **Policy Alignment:** Complies with the National Geospatial Policy 2022, enriching India's geospatial knowledge stack
 DIGIPIN simplifies address management and enhances service delivery accuracy, promoting a thriving geospatial ecosystem for India's digital economy.
 
+---
+
 # ✨ Features
 - **Encode:** Convert latitude and longitude into a compact 10-character DIGIPIN
 - **Decode:** Transform a DIGIPIN back to its center-point coordinates
@@ -37,6 +41,9 @@ DIGIPIN simplifies address management and enhances service delivery accuracy, pr
 - **RESTful API:** Clean, standard-compliant endpoints
 - **Interactive Documentation:** Comprehensive Swagger UI for easy exploration
 - **Production-Ready:** Built with Node.js and Express for reliability
+
+---
+
 # 📦 Installation
 **Prerequisites**
 - Node.js (v14 or higher)
@@ -61,6 +68,8 @@ For development with hot reloading:
 
 The API will be available at `http://localhost:5000`.
 
+---
+
 # 🚀 API Usage
 - **Encode Coordinates to DIGIPIN**
 `GET /api/digipin/encode?latitude=12.9716&longitude=77.5946`
@@ -75,6 +84,9 @@ The API will be available at `http://localhost:5000`.
 Access the Swagger UI documentation at:
 
 `http://localhost:5000/api-docs`
+
+---
+
 # 🔧 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -85,8 +97,12 @@ Fork the repository
 4. Open a Pull Request
 5. Please ensure your code adheres to the existing style and passes all tests.
 
+---
+
 # 📜 License
 This project is licensed under the Apache License, Version 2.0 - see the LICENSE file for details.
+
+---
 
 # 🙏 Acknowledgements
 - Department of Posts, Government of India
